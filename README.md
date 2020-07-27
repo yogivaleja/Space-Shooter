@@ -1,4 +1,5 @@
-# Space-Shooter
+## Space-Shooter
+
 The Space Shooter Game is a recreation of famous Space Invaders Game.
 
 This game is created in Python3 using Pygame.
